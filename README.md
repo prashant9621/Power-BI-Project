@@ -32,6 +32,8 @@ The data set is download from Kaggle dataset and consist of three tables sales,c
 
 
 
+
+
 *ROgers and Bevis are top Product giving loss.
 ![Screenshot (24)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/529923ef-943b-4a11-8435-abbc82722e67)
 
@@ -39,8 +41,14 @@ The data set is download from Kaggle dataset and consist of three tables sales,c
 
 
 
+
+
+
 *November,September and December shows maximum profit.
 ![Screenshot (22)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/8cb58001-559f-4b1f-a62c-e08bb23edb5a)
+
+
+
 
 
 
