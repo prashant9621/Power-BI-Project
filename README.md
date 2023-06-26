@@ -23,11 +23,13 @@ The data set is download from Kaggle dataset and consist of three tables sales,c
    ![Screenshot (6)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/892e7171-be27-49a0-be58-1699cfaaf997)      
 
 
-                                                              Important Insights
+                                                               Important Insights
                                                               
                                                               
-*canon,cisco and Hoover stove are top products giving best Profit.
+*Canon,cisco and Hoover stove are top products giving best Profit.
 ![Screenshot (23)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/4e38b05d-c910-45cf-ace8-5f6b82e67b79)
+
+
 
 
 
@@ -46,6 +48,8 @@ The data set is download from Kaggle dataset and consist of three tables sales,c
 
 *November,September and December shows maximum profit.
 ![Screenshot (22)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/8cb58001-559f-4b1f-a62c-e08bb23edb5a)
+
+
 
 
 
