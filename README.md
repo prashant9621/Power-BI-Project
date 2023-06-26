@@ -29,12 +29,22 @@ The data set is download from Kaggle dataset and consist of three tables sales,c
 *canon,cisco and Hoover stove are top products giving best Profit.
 ![Screenshot (23)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/4e38b05d-c910-45cf-ace8-5f6b82e67b79)
 
+
+
+
 *ROgers and Bevis are top Product giving loss.
 ![Screenshot (24)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/529923ef-943b-4a11-8435-abbc82722e67)
 
 
+
+
+
 *November,September and December shows maximum profit.
 ![Screenshot (22)](https://github.com/prashant9621/Power-BI-Project/assets/136049491/8cb58001-559f-4b1f-a62c-e08bb23edb5a)
+
+
+
+
 
 *Fabruary month shows depletion in Sales and increase in Profit.
 
